@@ -4,4 +4,4 @@
 2. sigmoid Activation Function.
 3. tanth Activation Function.
 4. ReLU Activation Function.
-5. leaky ReLU Activation Function.
+5. leaky ReLU (Softmax) Activation Function.
